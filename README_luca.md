@@ -1,6 +1,8 @@
 # lwatson3-toc-fa24-project02
 My NTM project for Theory of Computing
 
+https://github.com/luca-watson/lwatson3-toc-fa24-project02
+
 Test files used:
 abc_star.csv
 a_equal_b.csv
